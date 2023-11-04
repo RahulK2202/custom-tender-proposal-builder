@@ -1,0 +1,7 @@
+.proposal-draggable {
+    cursor: grab; /* Change cursor on hover to indicate draggability */
+    border: 1px solid #ccc; /* Add a border for a visual effect */
+    padding: 10px; /* Add padding to make the element visually distinct */
+    margin: 5px; /* Add some margin between draggable elements */
+  }
+  
